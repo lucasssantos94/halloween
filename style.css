@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    height: 100px;
+}
+
+h1 {
+    color: orangered;
+    margin-bottom: 10px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+div {
+    border: 1px solid red;
+    width: 500px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+figcaption{
+    color: red;
+    font-size: 30px;
+}
